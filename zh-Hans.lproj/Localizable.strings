@@ -2,11 +2,11 @@
  Localizable.strings
  XMRouter
  
- Created by 赵 国辉 on 13-10-10.
- Copyright (c) 2013年 xiaomi. All rights reserved.
+ Created by Zhao Guohui on 13-10-10.
+ Copyright (c) 2013 xiaomi. All rights reserved.
  */
 
-"xq_status_bar_menu_item_check_update" = "Check for updates";
+"xq_status_bar_menu_item_check_update" = “Check for updates”;
 
 "xq_status_bar_menu_item_help" = "Help";
 
@@ -44,9 +44,9 @@
 
 "xq_user_guide_go_on_btn_title" = "Carry on";
 
-"xq_user_guide_text" = "屏幕上的绿色箭头表示小米路由菜单栏图标的位置。单击图标以快速打开你的路由上的文件、建立下载任务等";
+"xq_user_guide_text" = "The green arrow on the screen indicates the position of the menu bar icon Xiaomi route. Click the icon to quickly open a file on your route, create download tasks, etc.";
 
-"xq_user_guide_open_finder" = "现在打开我的小米路由文件";
+"xq_user_guide_open_finder" = “User guide”;
 
 "xq_user_guide_finish_btn_title" = "Installation is complete";
 
@@ -70,7 +70,7 @@
 
 "xq_new_task_list_add_new_task_text" = "Click at the top left corner of \"+\" to create new download task";
 
-"xq_router_is_switching" = "正在切换您管理的路由器";
+"xq_router_is_switching" = “Manage the router switching”;
 
 "xq_input_new_download_link" = "Please enter the Magnet download link";
 
@@ -122,7 +122,7 @@
 
 "xq_about_app_name" = "MiWiFi";
 
-"xq_update_version_format" = "检查到有新版本,最新版本号为 %@";
+"xq_update_version_format" = “New version available, current version %@";
 
 "xq_update_window_title" = "Check for updates";
 
@@ -132,7 +132,7 @@
 
 "xq_download_cancel_download" = "Cancel";
 
-"xq_download_duplicated_info" = "当前任务已存在，是否重新下载";
+"xq_download_duplicated_info" = "Current task already exists, re-download?”;
 
 "xq_download_bt_panel_title" = "OK to download the file?";
 
@@ -140,41 +140,41 @@
 
 "xq_install_chrome_menu_item_title" = "Chrome plug-in installation";
 
-"xq_xunlei_engine_error_message" = "迅雷引擎错误";
+"xq_xunlei_engine_error_message" = "Thunder Engine Error";
 
-"xq_no_network_text" = "网络连接中断或设备不在线";
+"xq_no_network_text" = "Network connection is interrupted or the device is not online";
 
-"xq_network_error" = "网络故障";
+"xq_network_error" = "Network failure";
 
-"xq_not_my_router" = "连接的不是我的小米路由器";
+"xq_not_my_router" = "Not connected to my Xiaomi router";
 
-"xq_download_xunlei_yunbo_title" = "云播资源下载";
+"xq_download_xunlei_yunbo_title" = "Cloud broadcast resources";
 
 "xq_download_completed_text" = "Download complete";
 
-"xq_download_completed_info" = "%@等%lu个任务下载完成";
+"xq_download_completed_info" = "%@等%N tasks etc. Download complete";
 
-"xq_terminate_chrome_text" = "安装Chrome小米路由器下载扩展，需关闭正在运行的Chrome浏览器，是否允许?";
+"xq_terminate_chrome_text" = "Install Chrome extensions, you need to restart browser";
 
 "xq_open_download_file" = "Open downloaded file";
 
 "xq_close_notification" = "Close notification";
 
-"xq_no_xiaoqiang_disk" = "该设备无内置存储设备";
+"xq_no_xiaoqiang_disk" = "The device is no built-in storage device";
 
-"xq_message_open_web_kuaipan" = "点击前往网页版路由盘，进行云端文件管理";
+"xq_message_open_web_kuaipan" = "Click to go to the Web version of the routing plate, Kuaipan cloud file management";
 
-"xq_alert_delete_download_tasks" = "是否删除%@";
+"xq_alert_delete_download_tasks" = "Delete%@";
 
-"xq_alert_tasks_count" = "等%ld个任务";
+"xq_alert_tasks_count" = "Etc.% ld task";
 
-"xq_alert_fetch_web_kuaipan_fail" = "您未开启同步或网络错误";
+"xq_alert_fetch_web_kuaipan_fail" = "You did not open the synchronization or network error";
 
-"xq_message_device_not_support" = "Sorry, 暂不支持小米路由器mini";
+"xq_message_device_not_support" = "Sorry, device does not support Xiaomi router mini”;
 
 "xq_message_r1c_no_usb" = "Insert the USB storage device";
 
-"xq_message_r1c_no_usb_detail" = "才能开启下载，存储功能";
+"xq_message_r1c_no_usb_detail" = "To open the download, storage";
 
 "xq_message_r1c_wrong_usb" = "We don't support this file system";
 
@@ -190,17 +190,17 @@
 
 "xq_message_install_usb_device" = "USB device is initializing";
 
-"xq_kuaipan_sync_status_syncing" = "Syncing...";
+"xq_kuaipan_sync_status_syncing" = "Syncing Kuaipan...";
 
-"xq_kuaipan_sync_status_completed" = "Syncing completed";
+"xq_kuaipan_sync_status_completed" = "Syncing Kuaipan completed";
 
-"xq_kuaipan_sync_status_start" = "备份路由盘到快盘";
+"xq_kuaipan_sync_status_start" = "Kuaipan disk to disk backup start”;
 
-"xq_kuaipan_sync_status_stoped" = "暂停快盘备份";
+"xq_kuaipan_sync_status_stoped" = "Kuaipan sync paused”;
 
-"xq_kuaipan_sync_status_paused" = "继续快盘备份";
+"xq_kuaipan_sync_status_paused" = "Continue Kuaipan sync";
 
-"xq_setting_tool_item_common" = "常用";
+"xq_setting_tool_item_common" = "Common";
 
 "xq_setting_tool_item_browser" = "Browser";
 
@@ -226,11 +226,11 @@
 
 "xq_ui_login_check_autologin" = "Auto login";
 
-"xq_ui_otp_login_input_otp_code" = "请输入6位动态口令";
+"xq_ui_otp_login_input_otp_code" = "Please enter the 6 dynamic password";
 
-"xq_ui_otp_login_check_private" = "这是私人设备";
+"xq_ui_otp_login_check_private" = "This is a private equipment";
 
-"xq_ui_otp_login_check_public" = "这是公用设备";
+"xq_ui_otp_login_check_public" = "This is the utility equipment";
 
 "xq_ui_dialog_cancel" = "Cancel";
 
@@ -248,39 +248,39 @@
 
 "xq_error_disk_full" = "Disk is full";
 
-"xq_error_login_network_failed" = "无法连接服务器";
+"xq_error_login_network_failed" = “Can not reach server";
 
-"xq_bind_add_new_router" = "Add new Millet router";
+"xq_bind_add_new_router" = "Add new Xiaomi router";
 
 "xq_bind_searching_router" = "Connecting to..router";
 
-"xq_bind_find_an_unbound_router" = "发现一台可以绑定的路由器";
+"xq_bind_find_an_unbound_router" = "Find a router that can be bound";
 
-"xq_bind_find_no_result" = "未发现可绑定的路由器";
+"xq_bind_find_no_result" = "Routers can be bound not found";
 
-"xq_bind_bind_success" = "恭喜，绑定成功！";
+"xq_bind_bind_success" = "Congratulations, the binding is successful！";
 
-"xq_bind_bind_failed" = "绑定失败，请稍后再试！";
+"xq_bind_bind_failed" = "Bind failed, please try again later！";
 
-"xq_bind_prepare_find_router" = "请确保你已经连接到小米路由器";
+"xq_bind_prepare_find_router" = "Make sure you have connected to the Xiaomi router";
 
-"xq_bind_bind_now" = "立即绑定";
+"xq_bind_bind_now" = "bind now";
 
-"xq_bind_confirm" = "确定绑定";
+"xq_bind_confirm" = “Confirm the bind";
 
-"xq_bind_setup_now" = "立即设置";
+"xq_bind_setup_now" = “Setup now”;
 
-"xq_bind_router_is_connected" = "我已经连接上了";
+"xq_bind_router_is_connected" = “Router connected";
 
-"xq_bind_retry_connect" = "重试";
+"xq_bind_retry_connect" = "Retry connect";
 
-"xq_bind_retry_bind" = "重试";
+"xq_bind_retry_bind" = "Retry bind";
 
-"xq_bind_done" = "确定";
+"xq_bind_done" = “Bind_done";
 
 "xq_bind_empty_password" = "Password cannot be blank";
 
-"xq_bind_input_password_hit" = "请输入管理员密码";
+"xq_bind_input_password_hit" = "Please enter the administrator password";
 
 "xq_bind_input_password_error" = "Password error";
 
